@@ -1,5 +1,8 @@
 def reverse_string(str)
   # type your code in here
+  #look at the string
+  #split it up in individual letters
+  
 end
 
 if __FILE__ == $PROGRAM_NAME
